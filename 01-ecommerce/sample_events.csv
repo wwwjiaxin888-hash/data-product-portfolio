@@ -1,0 +1,13 @@
+user_id,category_id,event_date,behavior_type
+demo_u01,a,2024-11-25,pv
+demo_u01,a,2024-11-25,pv
+demo_u01,a,2024-11-25,cart
+demo_u01,a,2024-11-26,buy
+demo_u02,a,2024-11-25,pv
+demo_u02,b,2024-11-26,pv
+demo_u02,b,2024-11-27,buy
+demo_u03,a,2024-11-26,pv
+demo_u03,a,2024-11-26,fav
+demo_u04,b,2024-11-27,pv
+demo_u04,b,2024-11-27,cart
+demo_u05,c,2024-11-27,buy
