@@ -10,9 +10,9 @@
 
 ## 报告与原项目代码
 
-- [团队报告节选](research-report-excerpts.pdf)。含抽样设计、量表检验、菜品关联规则及结论与建议，保留原报告页码。
+- [下载团队报告节选（PDF，17 页）](https://raw.githubusercontent.com/wwwjiaxin888-hash/data-product-portfolio/main/04-market-research/research-report-excerpts.pdf)。节选保留原报告页码。抽样设计见第 19–22 页，量表检验见第 28–30 页，菜品关联规则见第 43–45 页，结论与建议见第 57–61 页。
 - [PPS 入样区抽取](pps-district.py) 和 [入样街道抽取](pps-street.py)。源自团队《代码修改.docx》中两段抽样代码。
 - [Apriori 关联规则分析](apriori-analysis.py)。源自同一附件，展示按人群整理交易项集、计算支持度和置信度并筛选规则。
-- [原报告营销模型结果](marketing-analysis-tables.pdf)。摘自《三稿.pdf》的营销模式章节，保留原图表和页码。
+- [下载原报告营销模型结果（PDF）](https://raw.githubusercontent.com/wwwjiaxin888-hash/data-product-portfolio/main/04-market-research/marketing-analysis-tables.pdf)。摘自《三稿.pdf》的营销模式章节，保留原图表和页码。
 
 这些是团队原项目的文件。我参与抽样与数据分析。复现需团队授权的问卷及抽样输入。
