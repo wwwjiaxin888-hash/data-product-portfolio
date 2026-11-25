@@ -21,6 +21,8 @@
 
 ## Coze 工作流与 Figma 原型
 
+对同一套 20 道题逐题复测，问数工作流通过数从 **12/20 提升到 19/20**。表中保留标准答案、判定规则、两轮实际回答和失败原因。[下载首测与复测判定表（Excel）](assets/coze-evaluation-20-questions.xlsx)
+
 - [Coze汇总查询工作流修订截图](assets/Coze%E6%B1%87%E6%80%BB%E6%9F%A5%E8%AF%A2%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BF%AE%E8%AE%A2%E6%88%AA%E5%9B%BE.png)。提取日期与查询条件、校验范围、执行汇总 SQL、格式化指标结果并处理异常。
 - [Coze工作流卡片更新截图](assets/Coze%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%8D%A1%E7%89%87%E6%9B%B4%E6%96%B0%E6%88%AA%E5%9B%BE.png)。展示智能体配置和品类 1004 的示例问答。另附[Coze商店新版卡片截图](assets/Coze%E5%95%86%E5%BA%97%E6%96%B0%E7%89%88%E5%8D%A1%E7%89%87%E6%88%AA%E5%9B%BE.png)。
 
